@@ -22,3 +22,4 @@ def complement(Pattern):
 Pattern=sys.stdin.read().strip().replace("/n","")
 result=reverse_complement(Pattern)
 print(result)
+#salved Rosalind complementing dna strand problem
