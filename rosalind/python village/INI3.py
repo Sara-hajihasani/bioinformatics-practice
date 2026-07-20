@@ -1,0 +1,7 @@
+#strings and lists
+string= 'jrEUagRZCRjNPz9ewDr8JLAdOuqQwu6rDiKrsun5VCJ0tyZzFBpI1RYAhaetullaZzPK4ZacM429j1RgX83lw3Q4v3baSg7m10oxpbruNYaoobsoletazEz91bN0jdm71C41DQTZhfzrLcWEhSmtVSbANDZtsWeHky9lmSYSJqT4k7e5wGMNMCvlKUZH.'
+wordonestart=55
+wordoneend=63
+wordtwostart=108
+wordtwoend=115
+print(f'{string[wordonestart:wordoneend+1]} {string[wordtwostart:wordtwoend+1]}')
